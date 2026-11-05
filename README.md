@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/icon.png" width="130" alt="Bigy logo">
 
 # Bigy Windows Last Activity
 
